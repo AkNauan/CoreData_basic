@@ -33,6 +33,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <navigationItem key="navigationItem" id="JbQ-3e-W8H">
+                        <barButtonItem key="leftBarButtonItem" systemItem="camera" id="xiy-H7-V2e"/>
                         <barButtonItem key="rightBarButtonItem" title="New Contact" style="done" id="ZQb-I0-Vs5">
                             <connections>
                                 <action selector="addContact:" destination="BYZ-38-t0r" id="OFs-OO-K8w"/>
